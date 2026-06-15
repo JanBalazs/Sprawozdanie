@@ -14,7 +14,3 @@ Badania literaturowe
 	./rozdzial_26/index
 	./rozdzial_27/index
 	./rozdzial_28/index
-	
-	
-
-
