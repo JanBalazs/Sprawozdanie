@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Sprawozdanie z laboratorium'
-copyright = '2026, Gal 1'
-author = 'Gal 1'
+copyright = '2026, Michał Bednarczyk'
+author = 'Michał Bednarczyk'
 release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------

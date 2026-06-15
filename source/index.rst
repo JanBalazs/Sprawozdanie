@@ -21,5 +21,6 @@ documentation for details.
    ./rozdzial_2/index
    ./rozdzial_3/index
    ./rozdzial_4/idnex
+   ./rozdzial_5/index
 
 

@@ -1,0 +1,24 @@
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{\numberline {1}Wprowadzenie}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Badania literaturowe}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Kopie zapasowe i odzyskiwanie danych}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Wstęp}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Tworzenie kopii zapasowej całego systemu PostgreSQL \sphinxhyphen {} mechanizmy wbudowane}{5}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Tworzenie kopii zapasowych poszczególnych baz danych \sphinxhyphen {} mechanizmy wbudowane}{6}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Odzyskiwanie usuniętych lub uszkodzonych danych}{6}{subsection.2.1.4}%
+\contentsline {subsubsection}{Odtwarzanie tabel i innych obiektów logicznych}{6}{subsubsection*.3}%
+\contentsline {subsubsection}{Odtwarzanie usuniętej bazy danych}{7}{subsubsection*.4}%
+\contentsline {subsubsection}{Odtwarzanie przestrzeni tabel i pełnego klastra}{7}{subsubsection*.5}%
+\contentsline {subsubsection}{PITR i odzyskiwanie stanu sprzed błędu}{7}{subsubsection*.6}%
+\contentsline {subsection}{\numberline {2.1.5}Dedykowane oprogramowanie i skrypty zewnętrzne do automatyzacji}{7}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Wnioski}{8}{subsection.2.1.6}%
+\contentsline {chapter}{\numberline {3}Dokumentacja bazy danych \textendash {} Sklep elektroniczny}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Wybór zagadnienia i identyfikacja danych}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Opis procesów i towarzyszących im danych}{9}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Prototypowy plik JSON}{10}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Dobór typów danych}{10}{subsection.3.3.1}%
+\contentsline {section}{\numberline {3.4}Modelowanie konceptualne i logiczne}{10}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Model koncepcyjny}{10}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Model koncepcyjny \textendash {} notacja Chena}{11}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Model logiczny i normalizacja}{11}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Schemat notacji IE po normalizacji}{12}{subsection.3.4.4}%

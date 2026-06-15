@@ -1,5 +1,6 @@
+===============================================
 Dokumentacja bazy danych -- Sklep elektroniczny
-==============================================
+===============================================
 
 **Autorzy:** Norbert Antonovitch, Michał Bednarczyk, Jan Balazs de Borbatviz
 
