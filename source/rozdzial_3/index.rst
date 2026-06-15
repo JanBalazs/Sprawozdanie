@@ -135,8 +135,6 @@ Główne działania podjęte podczas normalizacji:
 Schemat notacji IE po normalizacji
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Przykładowe osadzenie diagramu po wyeksportowaniu go do pliku graficznego::
-
    .. image:: schemat_chen.png
       :alt: Model koncepcyjny w notacji Chena
       :width: 80%
