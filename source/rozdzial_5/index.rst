@@ -14,3 +14,20 @@ student02: ``/lab6``
 Zapytania PostgreSQL
 
 student01:``/Laboratorium7/Lista6/CLABH01.ipynb``
+
+Funkcje zapytań dla PostgreSQL
+------------------------------
+
+.. automodule:: zapytania_PostgreSQL
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Funkcje zapytań dla SQLITE
+--------------------------
+
+.. automodule:: SQLITE
+   :members:
+   :undoc-members:
+   :show-inheritance:
