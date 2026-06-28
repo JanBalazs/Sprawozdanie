@@ -19,7 +19,12 @@ Link do mojego repozytorium ze sprawozdaniem:
 
 * **Link:** https://github.com/Koko9077/Sprawozdanie
 
-2. Repozytoria reszty grupy 
+2. Repozytorium z modelami fizycznymi naszej bazy 
+---------------------------------------------------------
+
+* **Link:** https://github.com/Koko9077/Model-fizyczny-baz
+
+3. Repozytoria reszty grupy 
 --------------------------------------------------
 Poniżej znajdują się odnośniki do repozytoriów reszty grupy:
 
