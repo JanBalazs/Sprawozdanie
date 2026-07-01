@@ -14,18 +14,18 @@ Wnioski z przeprowadzonych ćwiczeń
 
 Zrealizowanie całego procesu na laboratoriach udowodniło, że rzetelnie stworzona dokumentacja i poprawna normalizacja są absolutnym fundamentem do bezbłędnego wdrożenia modelu fizycznego. Podczas implementacji i testowania obu środowisk wyraźnie zarysowała się przewaga PostgreSQL nad SQLite w kontekście budowania profesjonalnych systemów. Rygorystyczne typowanie danych, bogatsza składnia oraz natywne, ścisłe egzekwowanie więzów integralności w PostgreSQL sprawiają, że jest to rozwiązanie znacznie bezpieczniejsze i bardziej przewidywalne niż uproszczony, plikowy SQLite. Etap końcowy, polegający na tworzeniu skomplikowanych zapytań (z wielokrotnymi złączeniami i podzapytaniami), ostatecznie potwierdził, że choć SQLite jest wygodny w prostych zastosowaniach, to właśnie PostgreSQL oferuje stabilność, precyzję i wydajność niezbędną do profesjonalnego przetwarzania złożonych informacji.
 
-1. Główne repozytorium sprawozdania 
+Główne repozytorium sprawozdania 
 ---------------------------------------------------------
 Link do mojego repozytorium ze sprawozdaniem:
 
 * **Link:** https://github.com/Koko9077/Sprawozdanie
 
-2. Repozytorium z modelami fizycznymi naszej bazy 
+Repozytorium z modelami fizycznymi naszej bazy 
 ---------------------------------------------------------
 
 * **Link:** https://github.com/Koko9077/Model-fizyczny-baz
 
-3. Repozytoria reszty grupy 
+Repozytoria reszty grupy 
 --------------------------------------------------
 Poniżej znajdują się odnośniki do repozytoriów reszty grupy:
 
